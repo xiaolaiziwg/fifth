@@ -1,2 +1,1 @@
-hello world
-hello worl 6
+﻿hello world
